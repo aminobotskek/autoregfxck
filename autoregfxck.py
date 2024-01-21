@@ -19,7 +19,7 @@ async def register_account(password):
 	except Exception as e:
 		print(e)
 init()
-print(f"{Fore.GREEN} script by Dos-kun \n github:https://github.com/aminobotskek  \n{figlet_format('autoreg fxck',font='rectangles')}")
+print(f"{Fore.GREEN} script by Dos-kun \n github:https://github.com/l0v3m0n3y  \n{figlet_format('autoreg fxck',font='rectangles')}")
 password=input("password»")
 count=int(input("account count»"))
 for i in range(count):
