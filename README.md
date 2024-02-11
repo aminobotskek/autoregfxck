@@ -5,8 +5,8 @@ Async account autoreg for Newmanga.org
 - apt update -y
 - apt upgrade -y
 - pkg install python
-- pip install -r requirements.txt
 - git clone https://github.com/aminobotskek/autoregfxck
 - cd autoregfxck
+- pip install -r requirements.txt
 - python autoregfxck.py
 ```
